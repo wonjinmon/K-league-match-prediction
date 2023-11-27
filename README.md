@@ -133,3 +133,21 @@
 
 </details>
 </p>
+
+
+
+> Data-preprocessing.ipynb
+
+수집한 데이터를 필요에 맞게 전처리했음.
+
+간단한 기술통계도 포함.
+
+
+> Data-visualization.ipynb
+
+학습 전, 중요하다고 생각 드는 변수들에 대해 시각화를 해보았음.
+
+21~23 시즌동안 K-league1에 참여한 팀과 경기수, 팀별 승리/패배 수, 평균 득점 수, 평균 구단 가치, 팀별 슈팅 수.
+
+> Train_V2.ipynb 
+
