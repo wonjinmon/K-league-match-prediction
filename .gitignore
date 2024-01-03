@@ -1,3 +1,7 @@
 datasets/
 k_datasets/
 catboost_info/
+
+설명서.txt
+discriptive_stats.ipynb
+train.ipynb
